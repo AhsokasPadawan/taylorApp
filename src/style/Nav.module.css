@@ -1,0 +1,15 @@
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo{
+    display: flex;
+    justify-self:left;
+    height: 40px;
+    width: 40px;
+}
