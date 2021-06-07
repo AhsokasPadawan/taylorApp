@@ -1,2 +1,2 @@
-# taylorApp
-A web with quotes from Taylor Swift
+This web is a love letter to Taylor Swift, it has quotes and fun! I used an external API for the quotes, and React to built the App as a SPA. 
+If you have any questions feel free to contact me at mrossijavier@gmail.com or <a href='https://www.linkedin.com/in/javier-rossi-fullstack-react/'>LinkedIn</a>
